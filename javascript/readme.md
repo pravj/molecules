@@ -8,9 +8,9 @@
 >but eventually they blocked me from sending even a single rose just after I started
 >few workers...saying "kitno ko bhejega bhai"
 
-> and I was even unable to send rose to someone I wanted #joke
+>and I was even unable to send rose to someone I wanted #joke
 
-> but it worked \m/
+>but it worked \m/
 
 
 -
