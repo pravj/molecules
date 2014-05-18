@@ -5,7 +5,7 @@ import string
 
 thisfile = os.path.basename(__file__)
 
-text_to_write = "tdy will be loved" # o.O
+text_to_write = "she will be loved" # o.O
 print text_to_write
 
 random_word = ''.join(random.choice(string.ascii_lowercase) for i in range(3))
